@@ -1,0 +1,32 @@
+{
+  "name": "ems",
+  "version": "1.0.0",
+  "description": "Discort bot to manage classroom",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnnazm/ems.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord-js"
+  ],
+  "author": "nan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hnnazm/ems/issues"
+  },
+  "homepage": "https://github.com/hnnazm/ems#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.7"
+  }
+}
